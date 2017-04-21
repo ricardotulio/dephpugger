@@ -1,0 +1,30 @@
+{
+    "title": "Dephpugger",
+    "tagline": "The best way to debug your PHP application",
+    "author": "Tacnoman",
+    "image": "https://raw.githubusercontent.com/tacnoman/dephpugger/master/images/logo.png",
+    "ignore": {
+            "files": [],
+            "folders": []
+    },
+    "live": {
+        "clean_urls": true
+    },
+    "html": {
+        "theme": "daux-brown",
+        "breadcrumbs": true,
+        "breadcrumb_separator": "Chevrons",
+        "toggle_code": false,
+        "date_modified": true,
+        "float": true,
+        "inherit_index": true,
+
+        "repo": "tacnoman/dephpugger",
+        "twitter": ["renatocassino"],
+        "google_analytics": "UA-97837560-1",
+        "links": {
+            "GitHub Repo": "https://github.com/tacnoman/dephpugger",
+            "Help/Support/Bugs": "https://github.com/tacnoman/dephpugger/issues"
+        }
+    }
+}
