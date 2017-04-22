@@ -37,3 +37,9 @@ xdebug_break();
 You must activate your browser plugin (How activate my brower plugin? Click [here](02_Installation/04_Browser_Plugin.md))
 
 Now you can refresh the page and see the debugger works.
+
+See an example using Lumen framwork.
+In this example, exist a bug because the $_GET return always a string and the code need an integer.
+Solving this in video bellow.
+
+<img src="https://raw.githubusercontent.com/tacnoman/dephpugger/master/images/dephpugger-web.gif">
