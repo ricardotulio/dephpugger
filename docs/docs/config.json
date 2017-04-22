@@ -5,7 +5,7 @@
     "image": "https://raw.githubusercontent.com/tacnoman/dephpugger/master/images/logo.png",
     "ignore": {
             "files": [],
-            "folders": []
+            "folders": ["10_For_Developers"]
     },
     "live": {
         "clean_urls": true
