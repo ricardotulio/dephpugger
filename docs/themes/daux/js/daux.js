@@ -25,7 +25,6 @@ $(function () {
         switch (codeBlockState) {
             case 2: // Show code blocks inline
                 toggleCodeBlockBtnFloat.addClass("Button--active");
-                codeBlockView.addClass('Columns__right--float');
                 codeBlocks.removeClass('hidden');
                 break;
             case 1: // Show code blocks below

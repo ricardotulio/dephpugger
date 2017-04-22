@@ -87,7 +87,7 @@
             </div>
         </div>
     </aside>
-    <div class="Columns__right <?= $params['html']['float'] ? 'Columns__right--float' : ''; ?>">
+    <div class="Columns__right">
         <div class="Columns__right__content">
             <div class="doc_content">
                 <?= $this->section('content'); ?>
