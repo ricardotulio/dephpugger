@@ -17,7 +17,7 @@ Open your `~/.bash_profile` and add this lines.
 
 ```bash
 
-if [ -d "$HOME/.config/composer/vendor/bin" ] ; then
+if [ -d "$HOME/.composer/vendor/bin" ] ; then
   PATH="$PATH:$HOME/.config/composer/vendor/bin"
 fi
 
