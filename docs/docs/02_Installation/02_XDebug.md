@@ -56,6 +56,8 @@ Open your the `.ini` file with your editor (must sudo user) and add this line.
 ```ini
 zend_extension=/path/to/your/xdebug.so
 ```
+The path in Mac Os X is: `/usr/local/opt/php70-xdebug/xdebug.so`.
+The path in Ubuntu is: `/usr/lib/php/20151012/xdebug.so`.
 
 Run again and check if your xdebug is installed.
 
