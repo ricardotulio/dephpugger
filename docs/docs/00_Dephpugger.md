@@ -1,4 +1,15 @@
-Dephpugger is a tool to debug codes for PHP application in development.
+<div class="HomepageTitle container">
+    <h2>The best way to debug your PHP application</h2>
+</div>
+
+<div class="HomepageImage container">
+    <img class="homepage-image img-responsive" src="https://raw.githubusercontent.com/tacnoman/dephpugger/master/images/logo.png" alt="Dephpugger">
+</div>
+
+
+<p class="lead">
+	<strong>DePHPugger</strong> is a tool to debug your php applications using any framework for web or your php cli codes. You can see in terminal, without necessary install an IDE to use. Is very simple and usefull.
+</p>
 
 ## Why?
 In another languages (like Python and Ruby), is really normal start a web server in terminal and start to develop you application code. In PHP many people install the nginx or apache to make run an application in local development. But, after PHP 5.4, you can start your webserver running a simple command too.
@@ -15,3 +26,11 @@ In ruby language is very similar, you can install the lib Byebug and start use. 
 But, if you are a PHP developer, you must install xDebug first, choose an IDE or editor, search for a tutorial `how integrate <my editor> with xDebug`. If you want change the IDE, you must install again. This is really bad, because many developers can't install and prefer to use `var_dump($variable); die()` to see a variable value in each request.
 
 This project is the solution for this problems, you will start a built-in web server in one terminal and the debugger in another terminal. Is really easy to use.
+
+## PHP Documentor
+
+To see the PHPDOCUMENTOR classes, click in image bellow.
+
+<a href="/phpdocumentor" targer="_blank">
+    <img src="/images/phpdocumentor.png" alt="phpdocumentor">
+</a>

@@ -1,38 +1,3 @@
-<p class="lead">
-	<strong>DePHPugger</strong> is a tool to debug your php applications using any framework for web or your php cli codes. You can see in terminal, without necessary install an IDE to use. Is very simple and usefull.
-</p>
-
-<hr/>
-<h3>Features</h3>
-<hr/>
-<div class=row>
-<div class=col-third>
-
-#### For Authors
-
-You can see our changelog
-</div>
-<div class=col-third>
-
-#### For Developers
-
-* Full access to the internal API to create new pages programatically
-* Work with pages metadata
-
-</div>
-<div class=col-third>
-
-#### PHP Documentor
-
-<a href="/phpdocumentor" targer="_blank">
-    <img src="/images/phpdocumentor.png">
-</a>
-
-</div>
-</div>
-
-<hr/>
-
 <!-- Google Code -->
 <script type="text/javascript">
 var google_conversion_id = 983836026;

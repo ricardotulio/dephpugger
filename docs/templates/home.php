@@ -1,3 +1,10 @@
+<?php
+header("HTTP/1.1 301 Moved Permanently");
+header("Location: /Dephpugger");
+
+exit;
+?>
+
 <?php $this->layout('theme::layout/00_layout') ?>
 <div class="Navbar hidden-print">
     <div class="container">
