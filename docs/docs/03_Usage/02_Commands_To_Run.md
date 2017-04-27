@@ -51,6 +51,7 @@ The debugger is waiting you to run a command. If you run the command help, you w
 |-------------------|-------|----------------------------------------------------------------------|
 | next              | n     | To run a step over in code                                           |
 | step              | s     | To run a step into in code                                           |
+| set \<cmd>:\<value> |       | Change verboseMode or lineOffset in runtime                          |
 | continue          | c     | To continue script until found another breakpoint or finish the code |
 | list              | l     | Show next lines in script                                            |
 | list-previous     | lp    | Show previous lines in script                                        |
