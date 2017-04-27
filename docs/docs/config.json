@@ -17,8 +17,7 @@
         "toggle_code": false,
         "date_modified": true,
         "float": true,
-        "inherit_index": false,
-
+        "inherit_index": true,
         "repo": "tacnoman/dephpugger",
         "twitter": ["renatocassino"],
         "google_analytics": "UA-97837560-1",
