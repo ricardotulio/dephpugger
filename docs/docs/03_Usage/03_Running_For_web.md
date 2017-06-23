@@ -15,7 +15,7 @@ To start a web server application, run.
 $ dephpugger server
 ```
 
-<img src="/images/dephpugger-server.png">
+<img src="/images/dephpugger-server.png" alt="dephpugger server">
 
 This commands run `php -S <host>:<port> -t /path/to/project -dxdebug.remote_enable=1 -dxdeb...` this command in background.
 
