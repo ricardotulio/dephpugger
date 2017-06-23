@@ -1,0 +1,53 @@
+{
+  "docs_directory": "docs",
+  "themes_directory": "themes",
+
+  "title": "Dephpugger",
+  "tagline": "The best way to debugger php codes",
+  "author": "Tacnoman - Renato Cassino",
+  "image": "",
+  "languages": {},
+
+  "format": "html",
+  "processor": "",
+
+  "ignore": {
+    "files": [],
+    "folders": []
+  },
+
+  "timezone": "America/Los_Angeles",
+
+  "live": {
+    "clean_urls": true
+  },
+
+  "html": {
+    "theme": "daux-navy",
+    "breadcrumbs": true,
+    "breadcrumb_separator": "Chevrons",
+    "toggle_code": true,
+    "date_modified": false,
+    "float": false,
+    "auto_landing": true,
+    "search": true,
+    "auto_toc": false,
+    "inherit_index": false,
+
+    "repo": "",
+    "twitter": [],
+    "links": {
+    },
+    "buttons": {
+    },
+
+    "google_analytics": false,
+    "piwik_analytics": false,
+    "piwik_analytics_id": "0"
+  },
+
+  "confluence": {
+    "prefix": "",
+    "delete": false
+  }
+}
